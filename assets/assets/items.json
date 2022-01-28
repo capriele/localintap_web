@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Burger 1",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 10.50,
+    "imageUrl": "images/hawkers.jpg",
+    "bannerId": 1,
+    "allergens": "Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 2,
+    "name": "Burger 2",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 10.50,
+    "imageUrl": "images/hawkers.jpg",
+    "bannerId": 1,
+    "allergens": "Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 3,
+    "name": "Burger 3",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 10.50,
+    "imageUrl": "images/hawkers.jpg",
+    "bannerId": 1,
+    "allergens": "Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 4,
+    "name": "Burger 4",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 10.50,
+    "imageUrl": "images/hawkers.jpg",
+    "bannerId": 1,
+    "allergens": "Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio,Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 5,
+    "name": "Cheese Chilly 1",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 15.50,
+    "imageUrl": "images/flipping.jpg",
+    "bannerId": 2,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 6,
+    "name": "Cheese Chilly 2",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 15.50,
+    "imageUrl": "images/flipping.jpg",
+    "bannerId": 2,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 7,
+    "name": "Cheese Chilly 3",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 15.50,
+    "imageUrl": "images/flipping.jpg",
+    "bannerId": 2,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 8,
+    "name": "Cheese Chilly 4",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 15.50,
+    "imageUrl": "images/flipping.jpg",
+    "bannerId": 2,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": false
+  },
+  {
+    "id": 9,
+    "name": "Blue Hill 1",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 35.50,
+    "imageUrl": "images/bluehill.jpg",
+    "bannerId": 3,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 10,
+    "name": "Blue Hill 2",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 35.50,
+    "imageUrl": "images/bluehill.jpg",
+    "bannerId": 3,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 11,
+    "name": "Blue Hill 3",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 35.50,
+    "imageUrl": "images/bluehill.jpg",
+    "bannerId": 3,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 12,
+    "name": "Blue Hill 4",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 35.50,
+    "imageUrl": "images/bluehill.jpg",
+    "bannerId": 3,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 13,
+    "name": "Pizza 1",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 14,
+    "name": "Pizza 2",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 15,
+    "name": "Pizza 3",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 16,
+    "name": "Pizza 4",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 17,
+    "name": "Pizza 5",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  },
+  {
+    "id": 18,
+    "name": "Pizza 6",
+    "description": "Spaghetti grossi Rummo, pomodorini del piennolo vesuviano, pecorino stagionato Fior di Monte e basilico dell’orto",
+    "price": 25.50,
+    "imageUrl": "images/pizzahut.jpg",
+    "bannerId": 4,
+    "allergens": "Lattosio",
+    "ingredients": "Pizza,Chinese,Fast Food,Italian,Juice",
+    "special": true
+  }
+]

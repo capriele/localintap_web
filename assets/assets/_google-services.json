@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489841408668",
+    "firebase_url": "https://flutterrestaurant-b1f23.firebaseio.com",
+    "project_id": "flutterrestaurant-b1f23",
+    "storage_bucket": "flutterrestaurant-b1f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489841408668:android:27351e7c63c916ac28cb59",
+        "android_client_info": {
+          "package_name": "com.alberto.petrucci.foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUrXzy4iwYw5zYJFJ1i2Y-MInIDAEA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "489841408668",
+    "firebase_url": "https://flutterrestaurant-b1f23.firebaseio.com",
+    "project_id": "flutterrestaurant-b1f23",
+    "storage_bucket": "flutterrestaurant-b1f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489841408668:android:2d7b5a8f2622a1ed28cb59",
+        "android_client_info": {
+          "package_name": "com.gmail.alberto.petrucci.foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUrXzy4iwYw5zYJFJ1i2Y-MInIDAEA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489841408668-76m3kdlcmuq1l59mga0cn572uu5spugb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.alberto.petrucci.tappeat.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489841408668:android:a31e9f2b5c77553828cb59",
+        "android_client_info": {
+          "package_name": "com.gmail.alberto.petrucci.tappeat.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489841408668-9khi8c37nfj9qvodkhq89q52dbk1029a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.alberto.petrucci.tappeat.local",
+            "certificate_hash": "9b72ec3ebd2f3ddc80a2ce1345fd2edcf1d3b8ad"
+          }
+        },
+        {
+          "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUrXzy4iwYw5zYJFJ1i2Y-MInIDAEA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489841408668-76m3kdlcmuq1l59mga0cn572uu5spugb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.alberto.petrucci.tappeat.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489841408668:android:028ecf2b2617df6928cb59",
+        "android_client_info": {
+          "package_name": "com.gmail.alberto.petrucci.tappeat.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489841408668-s654ur4r8du2m37dvp15qdmr7te4halr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.alberto.petrucci.tappeat.user",
+            "certificate_hash": "9b72ec3ebd2f3ddc80a2ce1345fd2edcf1d3b8ad"
+          }
+        },
+        {
+          "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUrXzy4iwYw5zYJFJ1i2Y-MInIDAEA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489841408668-glfjkqblhifmqicc3pln7bijglugrq7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489841408668-76m3kdlcmuq1l59mga0cn572uu5spugb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.alberto.petrucci.tappeat.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

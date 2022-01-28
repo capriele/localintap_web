@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"Burger",
+    "imageUrl":"images/burger.jpg",
+    "description": "Burger buonissimi"
+  },
+  {
+    "id":2,
+    "name":"Cheese Chilly",
+    "imageUrl":"images/cheesechilly.jpg",
+    "description": "Cheese-chilly buonissimi"
+  },
+  {
+    "id":3,
+    "name":"Noodles",
+    "imageUrl":"images/noodles.jpg",
+    "description": "Noodles buonissimi"
+  },
+  {
+    "id":4,
+    "name":"Pizza",
+    "imageUrl":"images/pizza.jpg",
+    "description": "Pizza buonissima"
+  }
+]
